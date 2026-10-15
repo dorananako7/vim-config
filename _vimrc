@@ -49,4 +49,13 @@ set softtabstop=2
 set expandtab
 
 "windowsのクリップボードと共有する
-set clipboard=unnamedplus
+"set clipboard=unnamedplus
+
+
+" Undo履歴ファイルを作成しない
+set noundofile
+
+"永続バックアップを作成しない
+set nobackup
+
+
